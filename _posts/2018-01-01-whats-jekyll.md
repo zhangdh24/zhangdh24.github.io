@@ -1,10 +1,8 @@
 ---
 layout: post
-title: What's Jekyll? ooooooooo
+title: Introduction
 ---
 
-[Jekyll](http://jekyllrb.com) is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From [the project's readme](https://github.com/jekyll/jekyll/blob/master/README.markdown):
-
-> Jekyll is a simple, blog aware, static site generator. It takes a template directory [...] and spits out a complete, static website suitable for serving with Apache or your favorite web server. This is also the engine behind GitHub Pages, which you can use to host your project’s page or blog right here from GitHub.
-
-It's an immensely useful tool. Find out more by [visiting the project on GitHub](https://github.com/jekyll/jekyll).
+I am currently a first-year  PhD student in University of Elecronic Science and Technology of China, where I received my bachelor's degree
+in Elecronic Engineering. My research focues on wireless network and signal processing. I am looking forward a visiting student position, which 
+is supported by the China Scholarship Council(CSC).
