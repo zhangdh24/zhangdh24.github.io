@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introduction
+title: 难受
 ---
 
 I am currently a first-year  PhD student in University of Elecronic Science and Technology of China, where I received my bachelor's degree
