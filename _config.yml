@@ -3,8 +3,8 @@ permalink:           pretty
 
 # Setup
 title:               Dongheng
-tagline:             University of 
-url:                 http://getpoole.com
+tagline:             University of Electronic Science and Technology of China
+#url:                 http://getpoole.com
 paginate:            1
 baseurl:             ""
 
