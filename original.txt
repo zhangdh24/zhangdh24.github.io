@@ -10,12 +10,6 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-
-# Introduction
-I am currently a first-year  PhD student in University of Elecronic Science and Technology of China, where I received my bachelor's degree
-in Elecronic Engineering. My research focues on wireless network and signal processing.
-
-
 # Header 1
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
