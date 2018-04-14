@@ -16,7 +16,7 @@ will be supported by the China Scholarship Council(CSC).
 Visiting Student, Oxford University, U.K. Aug. 2017. 
 
 # Awards
-* Outstanding graduates 2017
+* Outstanding graduates & Outstanding dissertation Awards 2017
 * National Scholarship 2016
 
 
