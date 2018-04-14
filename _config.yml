@@ -1,6 +1,6 @@
 title: Dongheng Zhang
 logo: /assets/img/donghengfull.jpg
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
+#description: Minimal is a theme for GitHub Pages.
+#show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
