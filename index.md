@@ -15,6 +15,17 @@ There should be whitespace between paragraphs. We recommend including a README, 
 I am currently a first-year  PhD student in University of Elecronic Science and Technology of China, where I received my bachelor's degree
 in Elecronic Engineering. My research focues on wireless network and signal processing.
 
+# Publication
+
+
+
+#Experience
+
+Visiting Student, Oxford University, U.K. Aug. 2017. 
+
+# Awards
+National Scholarship 2016
+
 
 # Header 1
 
