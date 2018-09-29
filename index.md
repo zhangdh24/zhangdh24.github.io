@@ -8,10 +8,10 @@ in Elecronic Engineering. I am supervised by [Prof. Yan Chen](https://scholar.go
 will be supported by the China Scholarship Council(CSC).
 
 # Publication
-“Breath Status Tracking using Commodity WiFi”， to appear, IEEE GLOBECOM 2018, Dongheng Zhang, Yang Hu, Yan Chen and Bing Zeng.
+*“Breath Status Tracking using Commodity WiFi”， to appear, IEEE GLOBECOM 2018, Dongheng Zhang, Yang Hu, Yan Chen and Bing Zeng.
 
 
-"Multi-Target AOA Estimation Framework using Wideband LFMCW Signal and Two Receiver Antennas", IEEE Transactions on Vehicular Technology, Dongheng Zhang, Ying He, Xinyu Gong, Yang Hu, Yan Chen and Bing Zeng, 2018. [PDF](./AOA180418.pdf)
+*"Multi-Target AOA Estimation Framework using Wideband LFMCW Signal and Two Receiver Antennas", IEEE Transactions on Vehicular Technology, Dongheng Zhang, Ying He, Xinyu Gong, Yang Hu, Yan Chen and Bing Zeng, 2018. [PDF](./AOA180418.pdf)
 
 
 # Awards
