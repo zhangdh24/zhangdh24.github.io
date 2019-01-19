@@ -11,16 +11,16 @@ in Elecronic Engineering. I am supervised by [Prof. Yan Chen](https://scholar.go
 
 <B><b>[J2]</b> BreathTrack: Tracking Indoor Human Breath Status via Commodity WiFi </B> <br />
 <b>Dongheng Zhang</b>, Yang Hu, Yan Chen and Bing Zeng. <br />
-IEEE Internet of Things Journal, 2019. [PDF](./paper/BreathTrack_IOT.pdf)
+IEEE Internet of Things Journal, 2019. [PDF](./pub/BreathTrack_IOT.pdf)
 
 <b>[J1] Multi-Target AOA Estimation Framework using Wideband LFMCW Signal and Two Receiver Antennas</b> <br />
 <b>Dongheng Zhang</b>, Ying He, Xinyu Gong, Yang Hu, Yan Chen and Bing Zeng <br />
-IEEE Transactions on Vehicular Technology, 2018. [PDF](./paper/LFMAOA.pdf)
+IEEE Transactions on Vehicular Technology, 2018. [PDF](./pub/LFMAOA.pdf)
 
 <h2>Conference Paper</h2>
 <b>[C1] Breath Status Tracking using Commodity WiFi </b> <br />
 <b>Dongheng Zhang</b>, Yang Hu, Yan Chen and Bing Zeng <br />
-IEEE GLOBECOM 2018. [PDF](./paper/BreathTrack_GC.pdf)
+IEEE GLOBECOM 2018. [PDF](./pub/BreathTrack_GC.pdf)
 
 
 # Awards
