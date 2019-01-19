@@ -7,6 +7,8 @@ I am currently a first-year PhD student in University of Elecronic Science and T
 in Elecronic Engineering. I am supervised by [Prof. Yan Chen](https://scholar.google.com.hk/citations?user=MVOCn1AAAAAJ&hl=en). My research focues on signal processing and wireless network.
 
 # Publication
+``BreathTrack: Tracking Indoor Human Breath Status via Commodity WiFi", IEEE Internet of Things Journal, Dongheng Zhang, Yang Hu, Yan Chen and Bing Zeng. 
+
 *“Breath Status Tracking using Commodity WiFi”， to appear, IEEE GLOBECOM 2018, Dongheng Zhang, Yang Hu, Yan Chen and Bing Zeng.
 
 
