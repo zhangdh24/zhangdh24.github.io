@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Introduction
-I am currently a first-year PhD student in University of Elecronic Science and Technology of China, Chengdu, where I received my B.S. degree
+I am currently a <s>first</s>second-year PhD student in University of Elecronic Science and Technology of China, Chengdu, where I received my B.S. degree
 in Elecronic Engineering. I am supervised by [Prof. Yan Chen](https://scholar.google.com.hk/citations?user=MVOCn1AAAAAJ&hl=en). My research focues on signal processing and wireless network.
 
 # Publications
