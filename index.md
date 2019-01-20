@@ -23,8 +23,6 @@ IEEE Transactions on Vehicular Technology, 2018. [PDF](./pub/LFMAOA.pdf)
 IEEE GLOBECOM 2018. [PDF](./pub/BreathTrack_GC.pdf)
 
 
-# Awards
-* Outstanding graduates & Outstanding dissertation Awards 2017
-* National Scholarship 2016
+
 
 
