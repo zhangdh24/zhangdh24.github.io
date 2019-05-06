@@ -1,7 +1,5 @@
-title: Dongheng Zhang        张东恒
-logo: /assets/img/donghengfull.jpg
+title: Dongheng Zhang
 description: eedhzhang@std.uestc.edu.cn
-#Minimal is a theme for GitHub Pages.
-#show_downloads: true
+show_downloads: False
 google_analytics:
-theme: jekyll-theme-minimal
+theme: jekyll-theme-slate
