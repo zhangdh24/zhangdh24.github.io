@@ -2,9 +2,14 @@
 layout: default
 ---
 
-### Introduction
+    
+
+### About Me
 I am currently a <s>first</s>second-year PhD student in University of Elecronic Science and Technology of China, Chengdu, where I received my B.S. degree
-in Elecronic Engineering. I am supervised by [Prof. Yan Chen](https://scholar.google.com.hk/citations?user=MVOCn1AAAAAJ&hl=en). My research focues on signal processing and wireless network.
+in Elecronic Engineering. I am supervised by [Prof. Yan Chen](https://scholar.google.com.hk/citations?user=MVOCn1AAAAAJ&hl=en). My research focues on signal processing and wireless network. <br />
+
+### Contact
+**Email: eedhzhang@std.uestc.edu.cn** <br />
 
 ### Publications
 #### Journal Paper
@@ -27,4 +32,5 @@ IEEE Transactions on Vehicular Technology, 2018. [[PDF]](./pub/LFMAOA.pdf)
 IEEE GLOBECOM 2018. [[PDF]](./pub/BreathTrack_GC.pdf)
 
 ### Misc
+[My Github](https://github.com/zhangdh24) <br />
 [Tips for Intel 5300 CSI Tool](./post/tipfor5300.html)
