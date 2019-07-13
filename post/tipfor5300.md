@@ -9,14 +9,17 @@ Thanks to [Dan](http://r.halper.in/work)'s great efforts, the Channel State Info
 
 First of all, it is quite difficult to install and use the fireware correctly for people who is new to this tool. There are several common problems:
 
-* Server hang off:
-* Network Unreachable in AP mode
-* RFKill problem
-* 
-
+* Server hang off when clone the repository: Set proxy for the git client
+* Network Unreachable in AP mode: 
 ```
 sudo dhclient wlan0
 ``` 
+* RFKill problem: 
+```
+sudo rfkill unblock all
+```
+* Device or resource busy: Retry the shell script or reboot the system
+
 
 
 Use Monitor Mode
