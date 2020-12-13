@@ -14,6 +14,14 @@ in Elecronic Engineering. I am supervised by [Prof. Yan Chen](https://scholar.go
 ### Publications
 #### Journal Paper
 
+**[J5] MTrack: Tracking Multi-Person Moving Trajectories and Vital Signs with Radio Signals** <br />
+**Dongheng Zhang**, Yang Hu and Yan Chen. <br />
+IEEE Internet of Things Journal, 2020. 
+
+**[J4] SpeedNet: Indoor Speed Estimation with Radio Signals** <br />
+Yan Chen, Hongyu Deng, **Dongheng Zhang** and Yang Hu. <br />
+IEEE Internet of Things Journal, 2020. 
+
 **[J3] Calibrating Phase Offsets for Commodity WiFi** <br />
 **Dongheng Zhang**, Yang Hu, Yan Chen and Bing Zeng. <br />
 IEEE Systems Journal, 2019, [[PDF]](./pub/CalWiFi-SJ.pdf) [[Github]](https://github.com/zhangdh24/Calibrating-Phase-Offsets-for-Commodity-WiFi)
