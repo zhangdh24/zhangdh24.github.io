@@ -5,7 +5,7 @@ layout: default
     
 
 ### About Me
-I am currently a <s>first</s> <s>second</s> <s>third</s> fourth PhD student in University of Elecronic Science and Technology of China, Chengdu, where I received my B.S. degree
+I am currently a <s>first</s> <s>second</s> <s>third</s> fourth year PhD student in University of Elecronic Science and Technology of China, Chengdu, where I received my B.S. degree
 in Elecronic Engineering. I am supervised by [Prof. Yan Chen](https://scholar.google.com.hk/citations?user=MVOCn1AAAAAJ&hl=en). My research focues on signal processing and wireless network. <br />
 
 ### Contact
@@ -36,7 +36,7 @@ IEEE Transactions on Vehicular Technology, 2018. [[PDF]](./pub/LFMAOA.pdf)
 
 #### Conference Paper
 
-[C3] Estimating Indoor Human Speed via Radio Signals
+**[C3] Estimating Indoor Human Speed via Radio Signals**<br />
 Hongyu Deng, **Dongheng Zhang**, Yang Hu and Yan Chen <br />
 IEEE GLOBECOM 2020. 
 
